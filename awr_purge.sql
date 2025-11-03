@@ -1,4 +1,5 @@
 REM awr_purge.sql
+REM see also https://blog.go-faster.co.uk/2019/10/purging-sql-statements-and-execution.html
 set pages 99 lines 200 echo on
 spool awr_purge
 ----------------------------------------------------------------------------------------------------
